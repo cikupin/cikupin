@@ -1,5 +1,6 @@
 ### Hi, I'm Alvin Rizki 👋
 [![Linkedin](https://img.shields.io/badge/-alvinrizki-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvinrizki/)](https://www.linkedin.com/in/alvinrizki/)
+[![Medium](https://img.shields.io/badge/-cikupin-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@cikupin)](https://medium.com/@cikupin)
 
 I'm a backend software engineer. That's what I do since the beginning of my career. But now I develop an interest in any of DevOps stuff and yet still learning about it. I'm sure that both of those knowledge can help balancing my career 😉
 
