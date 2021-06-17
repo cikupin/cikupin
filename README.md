@@ -10,11 +10,11 @@ I'm a backend software engineer. That's what I do since the beginning of my care
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/-MySQL-e97b00?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-04758f?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336890?style=flat&logo=postgresql&logoColor=white)
 ![TimeScaleDB](https://img.shields.io/badge/-TimescaleDB-f8b515?style=flat&logo=timescale&logoColor=white)
 ![Influxdb](https://img.shields.io/badge/-Influxdb-510d8f?style=flat&logo=influxdb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat&logo=Redis&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-da2b20?style=flat&logo=Redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 
 ### Cloud Provider
