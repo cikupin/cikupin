@@ -5,8 +5,8 @@
 I'm a backend software engineer. That's what I do since the beginning of my career. But now I develop an interest in any of DevOps stuff and yet still learning about it. I'm sure that both of those knowledge can help balancing my career 😉
 
 ### Programming Language & Framework
-![PHP - Laravel](https://img.shields.io/badge/-Laravel-777BB4?style=flat&logo=PHP&logoColor=white)
-![Python - Flask](https://img.shields.io/badge/-Flask-FFD43B?style=flat&logo=Python&logoColor=darkgreen)
+![PHP Laravel](https://img.shields.io/badge/-PHP_Laravel-ff2c1f?style=flat&logo=Laravel&logoColor=white)
+![Python Flask](https://img.shields.io/badge/-Python_Flask-ffdd6f?style=flat&logo=flask&logoColor=darkgreen)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 
 ### Database
