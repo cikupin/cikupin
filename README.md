@@ -68,4 +68,5 @@ Feel free to see some technologies that I use when working.
  
   ![Helm](https://img.shields.io/badge/-Helm-277a9f?style=flat&logo=helm&logoColor=white)
   ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=ansible&logoColor=white)
 </details>
